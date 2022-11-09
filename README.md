@@ -1,16 +1,12 @@
-# appflutter1
+Reto # 1
 
-A new Flutter project.
+Desarrollo de aplicacion movil en flutter desde visual studio code para el ciclo 4 del curso de programacion de MINTIC 2022 dictado por la www.uninorte.edu.co 
 
-## Getting Started
+El código esta dsesarrollado segun los parametros del archivo con las instruciones para su desarrollo, es un codigo abierto asi que sientase en la libertad de clonarlo, bajarlo y modificarlo teniendo presente la etica y politicas de uso de la plataforma www.github.com
 
-This project is a starting point for a Flutter application.
+El siguiente es un demo de la interfaz a la que se debe llegar (funcionalidades adicionales o mejoras a la interfaz son permitidas):
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://user-images.githubusercontent.com/108147199/200732151-ec0af78a-8ca1-4e2c-8b71-6cef3233fa81.mp4
+
